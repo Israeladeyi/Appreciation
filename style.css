@@ -20,7 +20,7 @@ a:hover{
  box-shadow: 1px 1px 20px #FF00B9;
 }
 div {
- margin-top:1em;
+ margin-top:0.5em;
 
 }
 .swiper-container {
@@ -38,7 +38,7 @@ div {
 
 .info h5{
     margin: 0;
-    padding-top: 15px;
+    padding-top: 10px;
     position: absolute;
     bottom: 0;
     text-align: center;
