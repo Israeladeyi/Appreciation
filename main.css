@@ -5,7 +5,7 @@
  user-select:none;
 }
 body{
- position:fixed;
+ position:relative;
  background:black;
 }
 video{
@@ -36,7 +36,7 @@ div{
  display:flex;
  align-items:Center;
  justify-content:Center;
-  margin-top:4rem ;
+  margin-top:2rem ;
 }
 
 audio{
